@@ -1,0 +1,84 @@
+{{> head}}
+{{> top}}
+<main class="main">
+   <div class="main__left">
+      <div class="main__left-inner">
+         <div class="main__left-content">
+            <article class="page page--tag">
+               {{#tag}}
+                  <header class="page__header">
+                     <h1 class="page__title">
+                        {{name}}
+                        {{#if @config.custom.postTagCount}}
+                           <sup>({{postsNumber}})</sup>
+                        {{/if}}
+                     </h1>
+                     {{#if description}}
+                        <p class="page__desc">
+                           {{description}}
+                        </p>
+                     {{/if}}
+                  </header>
+               {{/tag}}
+               <ul class="list">
+                  {{#each posts}}
+                     <li class="list__item {{#checkIfNone @config.custom.listingTagExcerpt}}list__item--thin{{/checkIfNone}}">
+                        <h3 class="list__item-title">
+                           <a href="{{url}}" class="invert">
+                              {{title}}
+                           </a>
+                        </h3>
+                        <div class="list__item-meta">
+
+                           {{#if @config.custom.listingTagDate}}
+                              <span>
+                                 {{ translate 'post.published' }}
+                                 <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}">
+                                    {{#checkIf @config.custom.formatDate '!=' 'custom'}}
+                                       {{date createdAt @config.custom.formatDate}}
+                                    {{else}}
+                                       {{date createdAt @config.custom.formatDateCustom}}
+                                    {{/checkIf}}
+                                 </time>
+                              </span>
+                           {{/if}}
+
+                           {{#if @config.custom.listingTagUpdate}}
+                              <span>
+                                 {{ translate 'post.updated' }}
+                                 <time datetime="{{date modifiedAt 'YYYY-MM-DDTHH:mm'}}">
+                                    {{#checkIf @config.custom.formatDate '!=' 'custom'}}
+                                       {{date modifiedAt @config.custom.formatDate}}
+                                    {{else}}
+                                       {{date modifiedAt @config.custom.formatDateCustom}}
+                                    {{/checkIf}}
+                                 </time>
+                              </span>
+                           {{/if}}
+
+                           {{#if @config.custom.listingTagAuthor}}
+                              {{#author}}
+                                 <a href="{{url}}" class="invert">{{name}}</a>
+                              {{/author}}
+                           {{/if}}
+
+                        </div>
+
+                        {{#if @config.custom.listingTagExcerpt}}
+                           {{#if hasCustomExcerpt}}
+                              {{{ excerpt }}}
+                           {{else}}
+                              <p class="list__item-excerpt">{{{ excerpt }}}</p>
+                           {{/if}}
+                        {{/if}}
+                     </li>
+                  {{/each}}
+               </ul>
+            </article>
+            {{> pagination}}
+         </div>
+      </div>
+   </div>
+   {{> sidebar}}
+</main>
+{{> footer}}

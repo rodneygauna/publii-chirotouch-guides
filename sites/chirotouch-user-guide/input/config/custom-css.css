@@ -1,0 +1,56 @@
+/*
+ * Put your custom CSS code here
+ */
+
+@media all and (min-width: 75em) {
+  .top {
+    -ms-grid-columns: var(--page-margin) 1fr var(--sidebar-width) minmax(-webkit-min-content, var(--content-width)) var(--aside-width) 1fr var(--page-margin);
+    -ms-grid-columns: var(--page-margin) 1fr var(--sidebar-width) minmax(min-content, var(--content-width)) var(--aside-width) 1fr var(--page-margin);
+    grid-template-columns: var(--page-margin) 1fr var(--sidebar-width) minmax(-webkit-min-content, var(--content-width)) var(--aside-width) 1fr var(--page-margin);
+    grid-template-columns: var(--page-margin) 1fr var(--sidebar-width) minmax(min-content, var(--content-width)) var(--aside-width) 1fr var(--page-margin);
+        grid-template-areas: "logo logo logo search links . .";
+  }
+}
+
+.top__logo {
+  background: #FFFFFF;
+}
+
+.top__logo img {
+  padding: 10px;
+}
+
+.main__right {
+  background: #384766;
+}
+
+.navbar .navbar__menu li a {
+  color: #FFFFFF;
+}
+
+.navbar .has-submenu > a::after, .navbar .has-submenu > span::after {
+  border-right: 1px solid #FFFFFF;
+  border-bottom: 1px solid #FFFFFF;
+}
+
+@media all and (min-width: 56.25em) {
+  .main__right-footer {
+    background: #384766;
+    margin-top: auto;
+    display: block !important;
+    position: relative;
+  }
+  .main__right-footer::before {
+    background: #384766;
+    content: "";
+    display: block;
+    height: 3rem;
+    position: absolute;
+    top: -3rem;
+    width: 100%;
+  }
+}
+
+.footer__copy {
+  color: #FFFFFF;
+}

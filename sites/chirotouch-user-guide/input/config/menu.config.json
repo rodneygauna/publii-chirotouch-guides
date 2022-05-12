@@ -1,0 +1,1306 @@
+[
+    {
+        "name": "Side Nav",
+        "position": "sidebarMenu",
+        "items": [
+            {
+                "id": 1621981958894,
+                "label": "Table of Contents",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 135,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1603396813800,
+                "label": "What's New ",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 87,
+                "cssClass": "",
+                "items": []
+            },
+            {
+                "id": 1596433349972,
+                "label": "Our Mission ",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 9,
+                "cssClass": "",
+                "items": []
+            },
+            {
+                "id": 1595300945783,
+                "label": "Getting Started",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 23,
+                "cssClass": "",
+                "items": []
+            },
+            {
+                "id": 1596484442068,
+                "label": "Dashboard ",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 73,
+                "cssClass": "",
+                "items": [
+                    {
+                        "id": 1650637257865,
+                        "label": "Daily Dashboard",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 178,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1650637344314,
+                        "label": "Appointments & Encounters Dashboard",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 179,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1650637399797,
+                        "label": "Billing Dashboard",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 180,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1650637461649,
+                        "label": "Audit Log",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 181,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1596476403270,
+                "label": "Scheduling ",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 34,
+                "cssClass": "",
+                "items": [
+                    {
+                        "id": 1628541296469,
+                        "label": "Calendar",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 148,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1629109620902,
+                                "label": "Appointments",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 25,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1596476436320,
+                                "label": "Recurring Appointments",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 29,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596476763096,
+                                "label": "Blocked Off Time",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 28,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596476817863,
+                                "label": "Recurring Blocked Off Time ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 30,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596476453454,
+                                "label": "Check In",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 26,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596476747542,
+                                "label": "Check Out ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 27,
+                                "cssClass": "",
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1628541433407,
+                        "label": "Patient Flow",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 147,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1596476849424,
+                "label": "Patients ",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 24,
+                "cssClass": "",
+                "items": [
+                    {
+                        "id": 1596476901815,
+                        "label": "Patients Record ",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 33,
+                        "cssClass": "",
+                        "items": [
+                            {
+                                "id": 1596476942628,
+                                "label": "Overview ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 16,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596476962886,
+                                "label": "Clinical ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 17,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596476974378,
+                                "label": "Documents ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 18,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477054027,
+                                "label": "Billing",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 19,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477091295,
+                                "label": "Insurance ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 20,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477103198,
+                                "label": "Ledger",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 21,
+                                "cssClass": "",
+                                "items": [
+                                    {
+                                        "id": 1601351671575,
+                                        "label": "Activity ",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 83,
+                                        "cssClass": "",
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1601351682347,
+                                        "label": "Charges ",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 84,
+                                        "cssClass": "",
+                                        "items": [
+                                            {
+                                                "id": 1618507694350,
+                                                "label": "Claims",
+                                                "title": "",
+                                                "type": "post",
+                                                "target": "_self",
+                                                "rel": "",
+                                                "link": 109,
+                                                "cssClass": "",
+                                                "items": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": 1601351693238,
+                                        "label": "Payments ",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 85,
+                                        "cssClass": "",
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1601351721873,
+                                        "label": "Balance ",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 86,
+                                        "cssClass": "",
+                                        "items": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 1618283799752,
+                                "label": "Claims Worklist",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 103,
+                                "cssClass": "",
+                                "items": [
+                                    {
+                                        "id": 1620961323508,
+                                        "label": "Paper Claims",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 109,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1623108277577,
+                                        "label": "Electronic Claims",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 118,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1623680808585,
+                                        "label": "Printing",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 137,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1624058285757,
+                                        "label": "Ready To Submit",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 138,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1625685082408,
+                                        "label": "Needs Attention",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 139,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1625685117718,
+                                        "label": "Submitted",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 140,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1625685145171,
+                                        "label": "Denied & Rejected",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 141,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    },
+                                    {
+                                        "id": 1625685184985,
+                                        "label": "Approved",
+                                        "title": "",
+                                        "type": "post",
+                                        "target": "_self",
+                                        "rel": "",
+                                        "link": 142,
+                                        "cssClass": "",
+                                        "isHidden": false,
+                                        "items": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 1596477111661,
+                                "label": "Cases",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 22,
+                                "cssClass": "",
+                                "items": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1596477128093,
+                "label": "Charting",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 62,
+                "cssClass": "",
+                "items": [
+                    {
+                        "id": 1603769350818,
+                        "label": "Encounters",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 88,
+                        "cssClass": "",
+                        "items": [
+                            {
+                                "id": 1621953705861,
+                                "label": "Chart Notes",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 128,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1621956944580,
+                                "label": "Problem List",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 129,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1621957540588,
+                                "label": "Diagnoses",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 130,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1621960860226,
+                                "label": "Listings",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 131,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1621958466043,
+                                "label": "Charges",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 132,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1621960902386,
+                                "label": "Documents",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 134,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1621960929418,
+                                "label": "Treatment Plans",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 133,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1621897367514,
+                "label": "Practice Ledger",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 120,
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1596477160688,
+                        "label": "Ledger ",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 64,
+                        "cssClass": "",
+                        "items": [
+                            {
+                                "id": 1604465121189,
+                                "label": "Activity ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 89,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1604465133998,
+                                "label": "Charges ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 90,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1604465149613,
+                                "label": "Payments ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 91,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1604465164974,
+                                "label": "Balance",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 93,
+                                "cssClass": "",
+                                "items": []
+                            }
+                        ],
+                        "isHidden": false
+                    },
+                    {
+                        "id": 1618284727323,
+                        "label": "Claims Worklist ",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 97,
+                        "cssClass": "",
+                        "items": [
+                            {
+                                "id": 1618370040266,
+                                "label": "Ready To Submit ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 104,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1618370053713,
+                                "label": "Needs Attention",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 105,
+                                "cssClass": "",
+                                "items": [],
+                                "isHidden": false
+                            },
+                            {
+                                "id": 1618370072002,
+                                "label": "Submitted ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 106,
+                                "cssClass": "",
+                                "items": [],
+                                "isHidden": false
+                            },
+                            {
+                                "id": 1618370106409,
+                                "label": "Denied & Rejected ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 107,
+                                "cssClass": "",
+                                "items": [],
+                                "isHidden": true
+                            },
+                            {
+                                "id": 1618370115502,
+                                "label": "Approved ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 108,
+                                "cssClass": "",
+                                "items": [],
+                                "isHidden": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1596484023936,
+                "label": "Settings",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 35,
+                "cssClass": "",
+                "items": [
+                    {
+                        "id": 1596477216107,
+                        "label": "Practice Settings",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 36,
+                        "cssClass": "",
+                        "items": [
+                            {
+                                "id": 1596477234671,
+                                "label": "Practice Information",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 40,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477245676,
+                                "label": "Practice Logo ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 41,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477259567,
+                                "label": "Appointment Types ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 42,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477282016,
+                                "label": "Cancel & Reschedule Reasons",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 43,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477293298,
+                                "label": "Online Booking",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 75,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1641597977095,
+                                "label": "Self Check In",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 170,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1619556666195,
+                                "label": "Macro Sets",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 111,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1627331453719,
+                                "label": "Document Tags",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 143,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1596477357047,
+                        "label": "User Settings",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 37,
+                        "cssClass": "",
+                        "items": [
+                            {
+                                "id": 1596477379241,
+                                "label": "User Maintenance ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 49,
+                                "cssClass": "",
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1596477394345,
+                        "label": "Provider Settings",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 38,
+                        "cssClass": "",
+                        "items": [
+                            {
+                                "id": 1596477411511,
+                                "label": "Provider Availability ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 50,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477428026,
+                                "label": "Provider Signature ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 51,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477437358,
+                                "label": "Auto SALT ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 52,
+                                "cssClass": "",
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1596477461382,
+                        "label": "Billing Settings ",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 39,
+                        "cssClass": "",
+                        "items": [
+                            {
+                                "id": 1596477485058,
+                                "label": "Payer Plan Maintenance ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 146,
+                                "cssClass": "",
+                                "items": [],
+                                "isHidden": false
+                            },
+                            {
+                                "id": 1618518404562,
+                                "label": "Payer Fee Schedules ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 110,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477495494,
+                                "label": "Billing Codes",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 66,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477512049,
+                                "label": "Charges ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 59,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477524641,
+                                "label": "Tax Rates",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 55,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1650465155731,
+                                "label": "Inventory Management",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 177,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1596477536711,
+                                "label": "Organizations ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 56,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477551363,
+                                "label": "Package & Subscriptions ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 57,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1596477571252,
+                                "label": "Merchant Account Settings ",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 58,
+                                "cssClass": "",
+                                "items": []
+                            },
+                            {
+                                "id": 1620250169806,
+                                "label": "Clearinghouse Settings",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 112,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1620250254374,
+                                "label": "Auto Invoice",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 113,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1620668882883,
+                "label": "Glossary",
+                "title": "Glossary",
+                "type": "post",
+                "target": "_self",
+                "rel": "Glossary",
+                "link": 114,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1605806159242,
+                "label": "Help",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 94,
+                "cssClass": "",
+                "items": []
+            },
+            {
+                "id": 1608236722307,
+                "label": "System Requirements",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 95,
+                "cssClass": "",
+                "items": []
+            },
+            {
+                "id": 1628644029945,
+                "label": "Ancillary Services",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 152,
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1628644185598,
+                        "label": "CT Engage",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 150,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1628644204810,
+                                "label": "Review Management",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 151,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1629506766579,
+                                "label": "Appointments",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 155,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1629905196740,
+                                "label": "Patient Communicator",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 156,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1630101748851,
+                                "label": "Patient Recall",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 159,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1629905234144,
+                                "label": "Campaigns",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 157,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1647536813948,
+                                "label": "Product Analytics",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 174,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1629905264146,
+                                "label": "Location Settings",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 158,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1637165519893,
+                        "label": "CT InForms",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 164,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1637166559785,
+                                "label": "CT InForms - Form Templates",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 165,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1638244168628,
+                                "label": "CT InForms - Forms",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 168,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1648779042146,
+                                "label": "CT InForms - Review",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 175,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1638244356568,
+                                "label": "CT InForms - Report",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 166,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1638244536804,
+                                "label": "CT InForms - Settings",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 167,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1641587312678,
+                        "label": "CT Verify",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 173,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1642094187639,
+                                "label": "CT Verify - Getting Started",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 172,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1642094234624,
+                                "label": "CT Verify - Using It",
+                                "title": "",
+                                "type": "post",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 171,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
